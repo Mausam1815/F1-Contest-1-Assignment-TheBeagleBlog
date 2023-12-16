@@ -1,0 +1,22 @@
+header {
+  font-size: x-large;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+#beagle_word {
+    font-style: italic;
+    font-weight: bold;
+  }
+#section_1_div {
+  border: 1px;
+  border-style: solid;
+  width: 40%;
+}
+#section_1_div, #section_2_div, #section_3_div {
+    margin: 10px;
+    padding: 10px;
+}
+#beagle_word {
+  font-style: italic;
+  font-weight: bold;
+}
